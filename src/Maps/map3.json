@@ -1,0 +1,37 @@
+{ "height":32,
+ "layers":[
+        {
+         "height":32,
+         "image":"..\/Textures\/tilesetblavier.png",
+         "name":"ima01",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "width":256,
+         "x":131,
+         "y":147
+        }, 
+        {
+         "height":32,
+         "image":"..\/Textures\/tileset02.png",
+         "name":"ima02",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "width":256,
+         "x":283,
+         "y":324
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"left-up",
+ "tileheight":32,
+ "tilesets":[],
+ "tilewidth":32,
+ "version":1,
+ "width":256
+}

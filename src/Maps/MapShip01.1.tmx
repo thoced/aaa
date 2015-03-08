@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="256" height="128" tilewidth="32" tileheight="32" nextobjectid="1">
+ <layer name="Calque de Tile 1" width="256" height="128">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1hDaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbgAeAAE=
+  </data>
+ </layer>
+ <imagelayer name="4EP001">
+  <image source="../Textures/4EP-Ship (1).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 2">
+  <image source="../Textures/4EP-Ship (2).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 3">
+  <image source="../Textures/4EP-Ship (3).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 4">
+  <image source="../Textures/4EP-Ship (4).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 5">
+  <image source="../Textures/4EP-Ship (5).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 6">
+  <image source="../Textures/4EP-Ship (6).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 7">
+  <image source="../Textures/4EP-Ship (7).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 8">
+  <image source="../Textures/4EP-Ship (8).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 9">
+  <image source="../Textures/4EP-Ship (9).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 10">
+  <image source="../Textures/4EP-Ship (10).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 11">
+  <image source="../Textures/4EP-Ship (11).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 12">
+  <image source="../Textures/4EP-Ship (12).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 13">
+  <image source="../Textures/4EP-Ship (13).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 14">
+  <image source="../Textures/4EP-Ship (14).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 15">
+  <image source="../Textures/4EP-Ship (15).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 16">
+  <image source="../Textures/4EP-Ship (16).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 17">
+  <image source="../Textures/4EP-Ship (17).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 18">
+  <image source="../Textures/4EP-Ship (18).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 19">
+  <image source="../Textures/4EP-Ship (19).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 20">
+  <image source="../Textures/4EP-Ship (20).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 21">
+  <image source="../Textures/4EP-Ship (21).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 22">
+  <image source="../Textures/4EP-Ship (22).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 23">
+  <image source="../Textures/4EP-Ship (23).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 24">
+  <image source="../Textures/4EP-Ship (24).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 25">
+  <image source="../Textures/4EP-Ship (25).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 26">
+  <image source="../Textures/4EP-Ship (26).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 27">
+  <image source="../Textures/4EP-Ship (27).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 28">
+  <image source="../Textures/4EP-Ship (28).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 29">
+  <image source="../Textures/4EP-Ship (29).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 30">
+  <image source="../Textures/4EP-Ship (30).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 31">
+  <image source="../Textures/4EP-Ship (31).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 32">
+  <image source="../Textures/4EP-Ship (32).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 33">
+  <image source="../Textures/4EP-Ship (33).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 34">
+  <image source="../Textures/4EP-Ship (34).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 35">
+  <image source="../Textures/4EP-Ship (35).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 36">
+  <image source="../Textures/4EP-Ship (36).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 37">
+  <image source="../Textures/4EP-Ship (37).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 38">
+  <image source="../Textures/4EP-Ship (38).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 39">
+  <image source="../Textures/DYN002.png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 40">
+  <image source="../Textures/DYN001.png"/>
+ </imagelayer>
+ <imagelayer name="3EP001">
+  <image source="../Textures/3EP-Ship (1).png"/>
+ </imagelayer>
+ <imagelayer name="3EP002">
+  <image source="../Textures/3EP-Ship (2).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 43">
+  <image source="../Textures/3EP-Ship (3).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 44">
+  <image source="../Textures/3EP-Ship (4).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 45">
+  <image source="../Textures/3EP-Ship (5).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 46">
+  <image source="../Textures/3EP-Ship (6).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 47">
+  <image source="../Textures/3EP-Ship (7).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 48">
+  <image source="../Textures/3EP-Ship (8).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 49">
+  <image source="../Textures/3EP-Ship (9).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 50">
+  <image source="../Textures/3EP-Ship (10).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 51">
+  <image source="../Textures/3EP-Ship (11).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 52">
+  <image source="../Textures/3EP-Ship (12).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 53">
+  <image source="../Textures/3EP-Ship (13).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 54">
+  <image source="../Textures/3EP-Ship (14).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 55">
+  <image source="../Textures/3EP-Ship (15).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 56">
+  <image source="../Textures/3EP-Ship (16).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 57">
+  <image source="../Textures/3EP-Ship (17).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 58">
+  <image source="../Textures/3EP-Ship (18).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 59">
+  <image source="../Textures/3EP-Ship (19).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 60">
+  <image source="../Textures/3EP-Ship (20).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 61">
+  <image source="../Textures/3EP-Ship (21).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 62">
+  <image source="../Textures/3EP-Ship (22).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 63">
+  <image source="../Textures/3EP-Ship (23).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 64">
+  <image source="../Textures/3EP-Ship (24).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 65">
+  <image source="../Textures/3EP-Ship (25).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 66">
+  <image source="../Textures/3EP-Ship (26).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 67">
+  <image source="../Textures/3EP-Ship (27).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 68">
+  <image source="../Textures/3EP-Ship (28).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 69">
+  <image source="../Textures/3EP-Ship (29).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 70">
+  <image source="../Textures/3EP-Ship (30).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 71">
+  <image source="../Textures/3EP-Ship (31).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 72">
+  <image source="../Textures/3EP-Ship (32).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 73">
+  <image source="../Textures/3EP-Ship (33).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 74">
+  <image source="../Textures/3EP-Ship (34).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 75">
+  <image source="../Textures/3EP-Ship (35).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 76">
+  <image source="../Textures/3EP-Ship (36).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 77">
+  <image source="../Textures/3EP-Ship (37).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 78">
+  <image source="../Textures/3EP-Ship (38).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 79">
+  <image source="../Textures/3EP-Ship (39).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 80">
+  <image source="../Textures/3EP-Ship (40).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 81">
+  <image source="../Textures/3EP-Ship (41).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 82">
+  <image source="../Textures/3EP-Ship (42).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 83">
+  <image source="../Textures/3EP-Ship (43).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 84">
+  <image source="../Textures/3EP-Ship (44).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 85">
+  <image source="../Textures/3EP-Ship (45).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 86">
+  <image source="../Textures/3EP-Ship (46).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 87">
+  <image source="../Textures/3EP-Ship (47).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 88">
+  <image source="../Textures/3EP-Ship (48).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 89">
+  <image source="../Textures/3EP-Ship (49).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 90">
+  <image source="../Textures/3EP-Ship (50).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 91">
+  <image source="../Textures/3EP-Ship (51).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 92">
+  <image source="../Textures/3EP-Ship (52).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 93">
+  <image source="../Textures/3EP-Ship (53).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 94">
+  <image source="../Textures/3EP-Ship (54).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 95">
+  <image source="../Textures/3EP-Ship (55).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 96">
+  <image source="../Textures/3EP-Ship (56).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 97">
+  <image source="../Textures/3EP-Ship (57).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 98">
+  <image source="../Textures/3EP-Ship (58).png"/>
+ </imagelayer>
+ <imagelayer name="2EP001">
+  <image source="../Textures/2EP-Ship (1).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 100">
+  <image source="../Textures/2EP-Ship (2).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 101">
+  <image source="../Textures/2EP-Ship (3).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 102">
+  <image source="../Textures/2EP-Ship (4).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 103">
+  <image source="../Textures/2EP-Ship (5).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 104">
+  <image source="../Textures/2EP-Ship (6).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 105">
+  <image source="../Textures/2EP-Ship (7).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 106">
+  <image source="../Textures/2EP-Ship (8).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 108">
+  <image source="../Textures/2EP-Ship (9).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 110">
+  <image source="../Textures/2EP-Ship (10).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 111">
+  <image source="../Textures/2EP-Ship (11).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 112">
+  <image source="../Textures/2EP-Ship (12).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 113">
+  <image source="../Textures/2EP-Ship (13).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 114">
+  <image source="../Textures/2EP-Ship (14).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 115">
+  <image source="../Textures/2EP-Ship (15).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 116">
+  <image source="../Textures/2EP-Ship (16).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 117">
+  <image source="../Textures/2EP-Ship (17).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 118">
+  <image source="../Textures/2EP-Ship (18).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 119">
+  <image source="../Textures/2EP-Ship (19).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 120">
+  <image source="../Textures/2EP-Ship (20).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 121">
+  <image source="../Textures/2EP-Ship (21).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 122">
+  <image source="../Textures/2EP-Ship (22).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 123">
+  <image source="../Textures/2EP-Ship (23).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 124">
+  <image source="../Textures/2EP-Ship (24).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 125">
+  <image source="../Textures/2EP-Ship (25).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 126">
+  <image source="../Textures/2EP-Ship (26).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 127">
+  <image source="../Textures/2EP-Ship (27).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 128">
+  <image source="../Textures/2EP-Ship (28).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 129">
+  <image source="../Textures/2EP-Ship (29).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 130">
+  <image source="../Textures/2EP-Ship (30).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 131">
+  <image source="../Textures/2EP-Ship (31).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 132">
+  <image source="../Textures/2EP-Ship (32).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 133">
+  <image source="../Textures/2EP-Ship (33).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 134">
+  <image source="../Textures/2EP-Ship (34).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 135">
+  <image source="../Textures/2EP-Ship (35).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 136">
+  <image source="../Textures/2EP-Ship (36).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 137">
+  <image source="../Textures/2EP-Ship (37).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 138">
+  <image source="../Textures/2EP-Ship (38).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 139">
+  <image source="../Textures/2EP-Ship (39).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 140">
+  <image source="../Textures/2EP-Ship (40).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 141">
+  <image source="../Textures/2EP-Ship (41).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 142">
+  <image source="../Textures/2EP-Ship (42).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 143">
+  <image source="../Textures/2EP-Ship (43).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 144">
+  <image source="../Textures/2EP-Ship (44).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 145">
+  <image source="../Textures/2EP-Ship (45).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 146">
+  <image source="../Textures/2EP-Ship (46).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 147">
+  <image source="../Textures/2EP-Ship (47).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 148">
+  <image source="../Textures/2EP-Ship (48).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 149">
+  <image source="../Textures/2EP-Ship (49).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 150">
+  <image source="../Textures/2EP-Ship (50).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 151">
+  <image source="../Textures/2EP-Ship (51).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 152">
+  <image source="../Textures/2EP-Ship (52).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 153">
+  <image source="../Textures/2EP-Ship (53).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 154">
+  <image source="../Textures/2EP-Ship (54).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 155">
+  <image source="../Textures/2EP-Ship (55).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 156">
+  <image source="../Textures/2EP-Ship (56).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 157">
+  <image source="../Textures/2EP-Ship (57).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 158">
+  <image source="../Textures/2EP-Ship (58).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 159">
+  <image source="../Textures/2EP-Ship (59).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 160">
+  <image source="../Textures/2EP-Ship (60).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 161">
+  <image source="../Textures/2EP-Ship (61).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 162">
+  <image source="../Textures/2EP-Ship (62).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 163">
+  <image source="../Textures/2EP-Ship (63).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 164">
+  <image source="../Textures/2EP-Ship (64).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 165">
+  <image source="../Textures/2EP-Ship (65).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 166">
+  <image source="../Textures/2EP-Ship (66).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 167">
+  <image source="../Textures/2EP-Ship (67).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 168">
+  <image source="../Textures/2EP-Ship (68).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 169">
+  <image source="../Textures/2EP-Ship (69).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 170">
+  <image source="../Textures/2EP-Ship (70).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 171">
+  <image source="../Textures/2EP-Ship (71).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 172">
+  <image source="../Textures/2EP-Ship (72).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 173">
+  <image source="../Textures/2EP-Ship (73).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 174">
+  <image source="../Textures/2EP-Ship (74).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 175">
+  <image source="../Textures/2EP-Ship (75).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 176">
+  <image source="../Textures/2EP-Ship (76).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 177">
+  <image source="../Textures/2EP-Ship (77).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 178">
+  <image source="../Textures/2EP-Ship (78).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 179">
+  <image source="../Textures/2EP-Ship (79).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 180">
+  <image source="../Textures/2EP-Ship (80).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 181">
+  <image source="../Textures/2EP-Ship (81).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 182">
+  <image source="../Textures/2EP-Ship (82).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 183">
+  <image source="../Textures/2EP-Ship (83).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 184">
+  <image source="../Textures/2EP-Ship (84).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 185">
+  <image source="../Textures/2EP-Ship (85).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 186">
+  <image source="../Textures/2EP-Ship (86).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 187">
+  <image source="../Textures/2EP-Ship (87).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 188">
+  <image source="../Textures/2EP-Ship (88).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 189">
+  <image source="../Textures/2EP-Ship (89).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 190">
+  <image source="../Textures/2EP-Ship (90).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 191">
+  <image source="../Textures/2EP-Ship (91).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 192">
+  <image source="../Textures/2EP-Ship (92).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 193">
+  <image source="../Textures/2EP-Ship (93).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 194">
+  <image source="../Textures/2EP-Ship (94).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 195">
+  <image source="../Textures/2EP-Ship (95).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 196">
+  <image source="../Textures/2EP-Ship (96).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 197">
+  <image source="../Textures/2EP-Ship (97).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 198">
+  <image source="../Textures/2EP-Ship (98).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 199">
+  <image source="../Textures/2EP-Ship (99).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 200">
+  <image source="../Textures/2EP-Ship (100).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 201">
+  <image source="../Textures/2EP-Ship (101).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 202">
+  <image source="../Textures/2EP-Ship (102).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 203">
+  <image source="../Textures/2EP-Ship (103).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 204">
+  <image source="../Textures/2EP-Ship (104).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 205">
+  <image source="../Textures/2EP-Ship (105).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 206">
+  <image source="../Textures/2EP-Ship (106).png"/>
+ </imagelayer>
+ <imagelayer name="1EP001">
+  <image source="../Textures/1EP-Ship (1).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 208">
+  <image source="../Textures/1EP-Ship (2).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 209">
+  <image source="../Textures/1EP-Ship (3).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 210">
+  <image source="../Textures/1EP-Ship (4).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 211">
+  <image source="../Textures/1EP-Ship (5).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 212">
+  <image source="../Textures/1EP-Ship (6).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 213">
+  <image source="../Textures/1EP-Ship (7).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 214">
+  <image source="../Textures/1EP-Ship (8).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 215">
+  <image source="../Textures/1EP-Ship (9).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 216">
+  <image source="../Textures/1EP-Ship (10).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 217">
+  <image source="../Textures/1EP-Ship (11).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 218">
+  <image source="../Textures/1EP-Ship (12).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 219">
+  <image source="../Textures/1EP-Ship (13).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 220">
+  <image source="../Textures/1EP-Ship (14).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 221">
+  <image source="../Textures/1EP-Ship (15).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 222">
+  <image source="../Textures/1EP-Ship (16).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 223">
+  <image source="../Textures/1EP-Ship (17).png"/>
+ </imagelayer>
+ <imagelayer name="Calque d'image 224"/>
+ <imagelayer name="Calque d'image 225">
+  <image source="../Textures/1EP-Ship (18).png"/>
+ </imagelayer>
+ <objectgroup name="obstacles"/>
+</map>
